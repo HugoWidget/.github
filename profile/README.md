@@ -1,4 +1,4 @@
-## 欢迎来到 HugoWidget！
+# 👋 欢迎来到 HugoWidget！
 
 这里是 HugoWidget 欢迎页，你可以在 [HugoWidget 组织介绍](https://github.com/HugoWidget/HugoWidget) 更详细地了解组织。
 
@@ -9,3 +9,5 @@
 - [HugoWinPE](https://github.com/HugoWidget/HugoWinPE) | [制作WinPE](https://github.com/HugoWidget/HugoWinPE/blob/master/docs/make-wim.md)
 - 核心库：[HugoUtils](https://github.com/HugoWidget/HugoUtils)
 - Release 下载：[HugoSetup](https://github.com/HugoWidget/HugoSetup)
+
+> 但行你路，无问西东。
